@@ -5,8 +5,7 @@
 - **RESTful API Endpoints**: Developed RESTful API endpoints to handle various operations, allowing clients to interact with the application's backend services.
 - **CORS Configuration**: Resolved Cross-Origin Resource Sharing (CORS) issues by configuring the server to allow secure communication between different origins.
 - **Database Interaction**: Established efficient communication with the MySQL database, including reading, writing, and updating data records.
-- **Error Handling**: Implemented robust error handling mechanisms to gracefully manage unexpected scenarios and provide meaningful error messages to users.
-- **Deployment**: Deployed the application on a server or cloud platform, making it accessible to users over the internet.
+- **Error Handling**: Implemented robust error handling mechanisms to gracefully manage unexpected scenarios and provide meaningful error messages to 
 
 ## Technologies Used
 
